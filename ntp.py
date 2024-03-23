@@ -1,10 +1,4 @@
 import dash
-from dash import html, dcc
-from dash.dependencies import Input, Output
-from ntplib import NTPClient
-from datetime import datetime, timezone
-
-import dash
 from dash import html
 from dash.dependencies import Input, Output
 from ntplib import NTPClient
